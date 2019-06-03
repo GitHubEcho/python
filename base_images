@@ -1,6 +1,1 @@
-10.114.12.26/b5be4856d837
-10.114.12.27/b5be4856d837
-10.129.35.188/2b8b028e6eeb
-10.134.34.227/2b8b028e6eeb
-10.134.34.228/b5be4856d837
-127.0.0.1/71452d6fcb19
+[{"images_ip":"10.134.34.22","images_space":"base","images_name":"prod","images_tag":"v1"},{"images_ip":"10.134.34.10","images_space":"base","images_name":"prod","images_tag":"v2"}]
