@@ -1,1 +1,1 @@
-[{"images_ip":"10.134.34.22","images_space":"base","images_name":"prod","images_tag":"v1"},{"images_ip":"10.134.34.10","images_space":"base","images_name":"prod","images_tag":"v2"}]
+[{"images_ip":"10.134.34.22","images_space":"base","images_name":"prod","images_tag":"v1"},{"images_ip":"10.134.34.10","images_space":"base","images_name":"prod","images_tag":"v2"},{"images_ip":"10.134.34.22","images_space":"base","images_name":"prod","images_tag":"v2"}]
